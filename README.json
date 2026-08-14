@@ -1,0 +1,402 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Category Overview"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Docs & Upgrade Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Expo Docs (5)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "React Native Docs (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Upgrade Tools (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Starter Kits & Templates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Official Starters (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CLIs & Generators (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Templates (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Navigation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "React Navigation (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Expo Router (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "State & Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Server State & Caching (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Client State (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Local Storage & Persistence (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Local-First Databases & Sync (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ORM & Query Builders (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Backend & Auth"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "BaaS Platforms (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Auth Providers & SDKs (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UI & Styling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Styling & Theming (5)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Component Libraries (5)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Expo UI (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Icons & SVG (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Animation & Gestures"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Animation Libraries (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graphics & Rendering (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gestures (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "UX Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Carousels (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Rich Text & Markdown (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Toasts & Alerts (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sheets (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Error Handling (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Forms & Validation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Form Libraries (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Schema Validation (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Media & Camera"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image & Video (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Camera & Vision (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Device APIs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Device Utilities (7)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Maps & Location (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Accessibility & i18n"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Localization (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Accessibility (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Push Notifications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Push Services (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analytics & Monitoring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crash Reporting (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Analytics & Attribution (5)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Monetization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "In-App Purchases & Subscriptions (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MCP Integrations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MCP Setup Guides (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Platform & Native Architecture"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Expo Modules & Config (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development Builds (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "React Native Architecture (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Build & Release"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "EAS Pipeline (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Release Automation (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing & Quality"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unit & Component Testing (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "E2E Testing (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CI Workflows (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Performance & Profiling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lists & Rendering (2)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Runtime & Engine (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bundle Analysis (1)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning & Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials & Feeds (3)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "News & Updates (4)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Production Apps (5)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Curated Lists (4)"
+    },
+    {
+      "description": "Data and curation are released under CC0-1.0.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:14:23.923Z",
+    "original_repository": "eyupk3/awesome-expo-react-native-dx",
+    "original_repository_sha": "4be8c3ce1a226f2be82f560be20df91d33d3ea75",
+    "enhanced_repository": "enhansome/enhansome-expo-react-native-dx",
+    "enhanced_repository_description": null,
+    "title": "Awesome Expo + React Native DX with stars"
+  }
+}

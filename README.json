@@ -1,7 +1,1448 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Expo Tabs Template",
+              "description": "Expo starter template featuring tab navigation and common app shell patterns. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65750241,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:38:15Z",
+                "owner": "expo",
+                "repo": "expo",
+                "stars": 51795
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Starters (2)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Create Better T Stack",
+              "description": "CLI for scaffolding type-safe TypeScript stacks with optional React Native frontend and backend choices. Verified: 2026-03-07 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 930459670,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T21:40:53Z",
+                "owner": "AmanVarshney01",
+                "repo": "create-better-t-stack",
+                "stars": 5667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Create Expo Stack",
+              "description": "CLI to bootstrap Expo apps with routing, styling, and backend stack options. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652905376,
+                "language": "TypeScript",
+                "last_commit": "2026-07-08T02:32:30Z",
+                "owner": "roninoss",
+                "repo": "create-expo-stack",
+                "stars": 2576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ignite CLI",
+              "description": "Battle-tested React Native boilerplate generator focused on scalable app setup. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51452356,
+                "language": "TypeScript",
+                "last_commit": "2026-06-07T01:18:58Z",
+                "owner": "infinitered",
+                "repo": "ignite",
+                "stars": 19933
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLIs & Generators (3)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Create T3 Turbo",
+              "description": "Monorepo starter including Expo app and shared packages for full-stack setups. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 527335176,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T22:48:29Z",
+                "owner": "t3-oss",
+                "repo": "create-t3-turbo",
+                "stars": 6103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crispy (Expo Router Components)",
+              "description": "Reusable Expo Router-first component set that accelerates new app shell development. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908744035,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T00:26:43Z",
+                "owner": "EvanBacon",
+                "repo": "crispy",
+                "stars": 570
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Expo Supabase Starter",
+              "description": "Expo + Supabase starter with auth and production-ready mobile architecture patterns. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656298482,
+                "language": "TypeScript",
+                "last_commit": "2026-07-02T17:40:39Z",
+                "owner": "flemingvincent",
+                "repo": "expo-clerk-convex",
+                "stars": 782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Template Obytes",
+              "description": "Production-grade Expo template with TypeScript, EAS, router, and quality tooling baked in. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294419498,
+                "language": "TypeScript",
+                "last_commit": "2026-06-02T13:59:47Z",
+                "owner": "obytes",
+                "repo": "react-native-template-obytes",
+                "stars": 4323
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Templates (4)"
+        }
+      ],
+      "title": "Starter Kits & Templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jotai Docs",
+              "description": "Atomic state model that scales from simple screens to complex app state graphs. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286867459,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T08:32:54Z",
+                "owner": "pmndrs",
+                "repo": "jotai",
+                "stars": 21243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Redux Toolkit Quick Start",
+              "description": "Modern Redux defaults with safer patterns and reduced setup complexity. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123732482,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T03:29:12Z",
+                "owner": "reduxjs",
+                "repo": "redux-toolkit",
+                "stars": 11224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zustand Docs",
+              "description": "Lightweight state management with minimal boilerplate and good RN ergonomics. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180328715,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T13:05:32Z",
+                "owner": "pmndrs",
+                "repo": "zustand",
+                "stars": 58600
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Client State (3)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native MMKV",
+              "description": "High-performance key-value storage used for persistence and local caching. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341816758,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T17:09:46Z",
+                "owner": "mrousavy",
+                "repo": "react-native-mmkv",
+                "stars": 8476
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Local Storage & Persistence (3)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Instant",
+              "description": "Realtime database platform with client-side queries, optimistic updates, and offline caching. Verified: 2026-03-09 · License: Apache-2.0 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 844738531,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T03:39:36Z",
+                "owner": "instantdb",
+                "repo": "instant",
+                "stars": 10484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TinyBase",
+              "description": "Reactive local-first data store and sync engine for apps that need offline-first data flows. Verified: 2026-03-09 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 443220240,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T22:56:55Z",
+                "owner": "tinyplex",
+                "repo": "tinybase",
+                "stars": 5157
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Local-First Databases & Sync (2)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prisma ORM for React Native and Expo",
+              "description": "Early access Prisma engine adaptation for React Native and Expo with SQLite and reactive query support. Verified: 2026-03-09 · License: Apache-2.0 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761992227,
+                "language": "TypeScript",
+                "last_commit": "2026-03-06T13:16:04Z",
+                "owner": "prisma",
+                "repo": "react-native-prisma",
+                "stars": 267
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ORM & Query Builders (2)"
+        }
+      ],
+      "title": "State & Data"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appwrite Platform",
+              "description": "Open-source backend platform with auth, database, storage, and functions for mobile apps. Verified: 2026-03-04 · License: BSD-3-Clause · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180190854,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:04:32Z",
+                "owner": "appwrite",
+                "repo": "appwrite",
+                "stars": 57114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BaaS Platforms (4)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Sign-In for React Native",
+              "description": "Official Google Sign-In SDK wrapper for React Native with one-tap and web client ID support. Verified: 2026-03-06 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40642004,
+                "language": "TypeScript",
+                "last_commit": "2026-07-27T22:31:24Z",
+                "owner": "react-native-google-signin",
+                "repo": "google-signin",
+                "stars": 3549
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Auth Providers & SDKs (4)"
+        }
+      ],
+      "title": "Backend & Auth"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NativeWind",
+              "description": "Tailwind-style utility classes adapted for React Native and Expo components. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477048503,
+                "language": "TypeScript",
+                "last_commit": "2026-07-17T05:30:31Z",
+                "owner": "nativewind",
+                "repo": "nativewind",
+                "stars": 8062
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Unistyles",
+              "description": "Styling system that extends React Native StyleSheet for dynamic themes and variants. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 699781382,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T05:38:11Z",
+                "owner": "jpudysz",
+                "repo": "react-native-unistyles",
+                "stars": 2934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shopify Restyle",
+              "description": "Type-safe design system primitives for building scalable React Native interfaces. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206762288,
+                "language": "TypeScript",
+                "last_commit": "2026-02-09T08:19:48Z",
+                "owner": "Shopify",
+                "repo": "restyle",
+                "stars": 3399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tamagui",
+              "description": "High-performance UI kit and compiler for shared React Native and web design systems. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304740870,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T09:15:08Z",
+                "owner": "tamagui",
+                "repo": "tamagui",
+                "stars": 14154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uniwind",
+              "description": "Tailwind bindings for React Native from the Unistyles ecosystem, focused on speed. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1028229430,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T08:07:33Z",
+                "owner": "uni-stack",
+                "repo": "uniwind",
+                "stars": 1678
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Styling & Theming (5)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gluestack UI Repository",
+              "description": "Source repository for gluestack UI components and patterns for React and React Native. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587710850,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:01:57Z",
+                "owner": "gluestack",
+                "repo": "gluestack-ui",
+                "stars": 5260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HeroUI Native",
+              "description": "React Native UI kit from the HeroUI team, built with Uniwind-based styling patterns. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 995504072,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T10:13:21Z",
+                "owner": "heroui-inc",
+                "repo": "heroui-native",
+                "stars": 3620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Elements",
+              "description": "Mature cross-platform UI toolkit with broad component coverage for React Native teams. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67709808,
+                "language": "MDX",
+                "last_commit": "2026-05-21T14:17:40Z",
+                "owner": "react-native-elements",
+                "repo": "react-native-elements",
+                "stars": 25864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Paper",
+              "description": "Material Design component library with strong accessibility and theming support. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71323749,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T12:31:03Z",
+                "owner": "callstack",
+                "repo": "react-native-paper",
+                "stars": 14450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Reusables",
+              "description": "Shadcn-inspired React Native components using Uniwind and NativeWind conventions. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 732431229,
+                "language": "TypeScript",
+                "last_commit": "2026-07-02T14:22:00Z",
+                "owner": "founded-labs",
+                "repo": "react-native-reusables",
+                "stars": 8617
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Component Libraries (5)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lucide React Native",
+              "description": "Beautiful, consistent icon set with tree-shakeable React Native bindings and 1500+ icons. Verified: 2026-03-04 · License: ISC · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270722949,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T12:39:06Z",
+                "owner": "lucide-icons",
+                "repo": "lucide",
+                "stars": 24136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native SVG",
+              "description": "SVG rendering primitives for React Native used by icon libraries and custom vector graphics. Verified: 2026-03-06 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49820627,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T08:28:01Z",
+                "owner": "software-mansion",
+                "repo": "react-native-svg",
+                "stars": 8001
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Icons & SVG (3)"
+        }
+      ],
+      "title": "UI & Styling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lottie React Native",
+              "description": "Render Lottie animations from Adobe After Effects in React Native applications. Verified: 2026-03-04 · License: Apache-2.0 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80233816,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T20:26:01Z",
+                "owner": "lottie-react-native",
+                "repo": "lottie-react-native",
+                "stars": 17205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moti",
+              "description": "Reanimated-powered animation library with simple APIs for entrance, exit, and gesture motion. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304909106,
+                "language": "TypeScript",
+                "last_commit": "2025-03-11T20:26:04Z",
+                "owner": "nandorojo",
+                "repo": "moti",
+                "stars": 4548
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Reanimated",
+              "description": "Core animation library for React Native with performant UI-thread driven motion APIs. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130961487,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:31:25Z",
+                "owner": "software-mansion",
+                "repo": "react-native-reanimated",
+                "stars": 10963
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Animation Libraries (3)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Skia",
+              "description": "GPU-accelerated 2D rendering toolkit for performant graphics and custom UI. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425845325,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T17:13:27Z",
+                "owner": "Shopify",
+                "repo": "react-native-skia",
+                "stars": 8523
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphics & Rendering (2)"
+        }
+      ],
+      "title": "Animation & Gestures"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Pager View",
+              "description": "Native pager component for swipeable screens using Android ViewPager and iOS UIPageViewController. Verified: 2026-03-09 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169435703,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T08:04:59Z",
+                "owner": "callstack",
+                "repo": "react-native-pager-view",
+                "stars": 3350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Reanimated Carousel",
+              "description": "Carousel component library built on Reanimated for swipeable banners, cards, and snapping layouts. Verified: 2026-03-07 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403858368,
+                "language": "TypeScript",
+                "last_commit": "2026-08-08T01:07:51Z",
+                "owner": "dohooo",
+                "repo": "react-native-reanimated-carousel",
+                "stars": 3427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Carousels (2)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Live Markdown",
+              "description": "Live markdown TextInput replacement with native selection and customizable parsing/styling. Verified: 2026-03-09 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721036389,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T11:34:15Z",
+                "owner": "Expensify",
+                "repo": "react-native-live-markdown",
+                "stars": 1335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Markdown Display",
+              "description": "CommonMark-compatible markdown renderer for React Native with native components and customizable rules. Verified: 2026-03-09 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218278456,
+                "language": "JavaScript",
+                "last_commit": "2026-03-20T15:52:45Z",
+                "owner": "iamacup",
+                "repo": "react-native-markdown-display",
+                "stars": 791
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Rich Text & Markdown (2)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Sonner Native Toasts",
+              "description": "Opinionated toast component for React Native inspired by the Sonner web API. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 851900289,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T09:40:55Z",
+                "owner": "gunnartorfis",
+                "repo": "sonner-native-toasts",
+                "stars": 1336
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Toasts & Alerts (1)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Bottom Sheet",
+              "description": "High-performance bottom sheet component with gestures, snapping, and keyboard support. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284031822,
+                "language": "TypeScript",
+                "last_commit": "2026-05-09T18:28:02Z",
+                "owner": "gorhom",
+                "repo": "react-native-bottom-sheet",
+                "stars": 9073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native True Sheet",
+              "description": "Native-feel sheet component for iOS and Android with performant modal interactions. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776272298,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T20:59:38Z",
+                "owner": "lodev09",
+                "repo": "react-native-true-sheet",
+                "stars": 2039
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sheets (2)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Error Boundary",
+              "description": "Reusable React error boundary helpers for safer fallback UI and runtime failure recovery. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97559842,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T16:31:41Z",
+                "owner": "bvaughn",
+                "repo": "react-error-boundary",
+                "stars": 7985
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Error Handling (1)"
+        }
+      ],
+      "title": "UX Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Formik",
+              "description": "Popular form abstraction for predictable field handling and validation workflows. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94367677,
+                "language": "TypeScript",
+                "last_commit": "2025-11-10T17:02:06Z",
+                "owner": "jaredpalmer",
+                "repo": "formik",
+                "stars": 34330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Hook Form",
+              "description": "Efficient form state management with minimal rerenders and strong TypeScript support. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174038031,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T21:17:14Z",
+                "owner": "react-hook-form",
+                "repo": "react-hook-form",
+                "stars": 44830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Date Picker",
+              "description": "Native date, time, and datetime picker for iOS and Android with locale-aware customization. Verified: 2026-03-09 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128670217,
+                "language": "Java",
+                "last_commit": "2025-06-05T18:28:03Z",
+                "owner": "henninghall",
+                "repo": "react-native-date-picker",
+                "stars": 2506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TanStack Form",
+              "description": "Modern form state toolkit with strong composability and predictable data flow. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75044525,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T15:24:33Z",
+                "owner": "TanStack",
+                "repo": "form",
+                "stars": 6669
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Form Libraries (4)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yup Repository",
+              "description": "Mature object schema validator commonly used with form libraries in RN projects. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24349832,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T14:55:50Z",
+                "owner": "jquense",
+                "repo": "yup",
+                "stars": 23672
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Schema Validation (3)"
+        }
+      ],
+      "title": "Forms & Validation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Compressor",
+              "description": "Media compression library for images, videos, and audio in React Native apps. Verified: 2026-03-07 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371665826,
+                "language": "Kotlin",
+                "last_commit": "2026-07-25T22:49:02Z",
+                "owner": "numandev1",
+                "repo": "react-native-compressor",
+                "stars": 1325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Fast Image",
+              "description": "High-performance image component with aggressive caching, priority loading, and GIF support. Verified: 2026-03-07 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88124214,
+                "language": "TypeScript",
+                "last_commit": "2024-06-14T09:29:08Z",
+                "owner": "DylanVann",
+                "repo": "react-native-fast-image",
+                "stars": 8422
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image & Video (4)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Vision Camera",
+              "description": "High-performance camera with frame processors, QR scanning, and video recording. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340402576,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:35:20Z",
+                "owner": "mrousavy",
+                "repo": "react-native-vision-camera",
+                "stars": 9573
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Camera & Vision (2)"
+        }
+      ],
+      "title": "Media & Camera"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Expo OTP Autofill",
+              "description": "Native Expo wrapper for Android SMS Retriever API enabling OTP autofill without permissions. Verified: 2026-03-20 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182976622,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T08:20:55Z",
+                "owner": "MULERx",
+                "repo": "expo-otp-autofill",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Keyboard Controller",
+              "description": "Cross-platform keyboard handling and animations for smoother input-heavy screens. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482596054,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T16:55:55Z",
+                "owner": "kirillzyusko",
+                "repo": "react-native-keyboard-controller",
+                "stars": 3698
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native NetInfo",
+              "description": "Network state and reachability API for monitoring connectivity changes in React Native apps. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169431948,
+                "language": "TypeScript",
+                "last_commit": "2026-02-15T14:37:30Z",
+                "owner": "react-native-netinfo",
+                "repo": "react-native-netinfo",
+                "stars": 2180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Permissions",
+              "description": "Standardized permission handling for iOS and Android device capabilities. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54657328,
+                "language": "Objective-C++",
+                "last_commit": "2026-07-23T17:53:30Z",
+                "owner": "zoontek",
+                "repo": "react-native-permissions",
+                "stars": 4378
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Share",
+              "description": "Native share sheet integration for sending text, files, and media to other apps. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43406976,
+                "language": "Java",
+                "last_commit": "2026-07-20T21:44:56Z",
+                "owner": "react-native-share",
+                "repo": "react-native-share",
+                "stars": 3893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native View Shot",
+              "description": "Capture React Native views as images for sharing, saving, and snapshot-based UI workflows. Verified: 2026-03-09 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66399014,
+                "language": "TypeScript",
+                "last_commit": "2026-08-02T12:52:20Z",
+                "owner": "gre",
+                "repo": "react-native-view-shot",
+                "stars": 2947
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native WebView",
+              "description": "Cross-platform WebView component for rendering web content inside React Native apps. Verified: 2026-03-06 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147979549,
+                "language": "TypeScript",
+                "last_commit": "2026-07-12T08:04:54Z",
+                "owner": "react-native-webview",
+                "repo": "react-native-webview",
+                "stars": 7188
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Device Utilities (7)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Maps",
+              "description": "Cross-platform map components for iOS and Android with markers, polygons, and overlays. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48764652,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T03:06:36Z",
+                "owner": "react-native-maps",
+                "repo": "react-native-maps",
+                "stars": 15992
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Maps & Location (2)"
+        }
+      ],
+      "title": "Device APIs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Notifee",
+              "description": "Feature-rich notification library for React Native with local notifications, channels, and advanced handling. Verified: 2026-03-07 · License: Apache-2.0 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 93151463,
+                "language": "TypeScript",
+                "last_commit": "2026-04-07T11:48:23Z",
+                "owner": "invertase",
+                "repo": "notifee",
+                "stars": 2176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneSignal React Native SDK",
+              "description": "Push notification and in-app messaging SDK for React Native with segmentation and A/B testing. Verified: 2026-03-06 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52082254,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T22:17:35Z",
+                "owner": "OneSignal",
+                "repo": "react-native-onesignal",
+                "stars": 1593
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Push Services (4)"
+        }
+      ],
+      "title": "Push Notifications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AppsFlyer React Native Plugin",
+              "description": "Official AppsFlyer plugin for install attribution and mobile marketing analytics. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73627053,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T13:06:25Z",
+                "owner": "AppsFlyerSDK",
+                "repo": "appsflyer-react-native-plugin",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mixpanel React Native",
+              "description": "Open-source Mixpanel SDK for event tracking and analytics in React Native applications. Verified: 2026-03-04 · License: Apache-2.0 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 238638291,
+                "language": "JavaScript",
+                "last_commit": "2026-08-20T17:59:03Z",
+                "owner": "mixpanel",
+                "repo": "mixpanel-react-native",
+                "stars": 124
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analytics & Attribution (5)"
+        }
+      ],
+      "title": "Analytics & Monitoring"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Voltra",
+              "description": "Build iOS Live Activities, Dynamic Island layouts, and Android Widgets using JSX without writing native Swift or Kotlin code. Verified: 2026-03-23 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1107515227,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T08:55:03Z",
+                "owner": "callstackincubator",
+                "repo": "voltra",
+                "stars": 810
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Expo Modules & Config (3)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nitro Modules",
+              "description": "Tooling for building very fast C++, Swift, and Kotlin modules with JSI bindings. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814092544,
+                "language": "C++",
+                "last_commit": "2026-08-21T21:27:12Z",
+                "owner": "mrousavy",
+                "repo": "nitro",
+                "stars": 1907
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Native Architecture (3)"
+        }
+      ],
+      "title": "Platform & Native Architecture"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FlashList",
+              "description": "High-performance list virtualization library for large and complex mobile lists. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440224087,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T08:06:33Z",
+                "owner": "Shopify",
+                "repo": "flash-list",
+                "stars": 7182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Legend List",
+              "description": "High-performance React Native list component designed for smooth scrolling at scale. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 891395218,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T12:48:49Z",
+                "owner": "LegendApp",
+                "repo": "legend-list",
+                "stars": 3322
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lists & Rendering (2)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Why Did You Render",
+              "description": "Monkey patches React to detect potentially avoidable re-renders, including React Native apps. Verified: 2026-03-09 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157014461,
+                "language": "JavaScript",
+                "last_commit": "2026-04-15T11:11:13Z",
+                "owner": "welldone-software",
+                "repo": "why-did-you-render",
+                "stars": 12513
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Runtime & Engine (3)"
+        }
+      ],
+      "title": "Performance & Profiling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Artsy Eigen",
+              "description": "Artsy mobile application codebase, useful for studying mature React Native patterns. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29702213,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:51:40Z",
+                "owner": "artsy",
+                "repo": "eigen",
+                "stars": 3775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bluesky Social App",
+              "description": "Large-scale social application codebase for Web, iOS, and Android from Bluesky. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 501027541,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:08:11Z",
+                "owner": "bluesky-social",
+                "repo": "social-app",
+                "stars": 18232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Expensify App",
+              "description": "Large production React Native app with real-world architecture and collaboration flows. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285902689,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:37:02Z",
+                "owner": "Expensify",
+                "repo": "App",
+                "stars": 5011
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kraken Wallet",
+              "description": "Open-source self-custody wallet showing production mobile crypto app patterns. Verified: 2026-03-04 · License: MIT · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 786930541,
+                "language": "TypeScript",
+                "last_commit": "2026-05-28T15:17:06Z",
+                "owner": "krakenfx",
+                "repo": "wallet",
+                "stars": 261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uniswap Interface",
+              "description": "Open-source production interface for Uniswap, useful for large-scale React app architecture study. Verified: 2026-03-04 · License: GPL-3.0 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108706901,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T17:45:48Z",
+                "owner": "Uniswap",
+                "repo": "interface",
+                "stars": 5529
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Production Apps (5)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome (Sindre Sorhus)",
+              "description": "Canonical awesome-list repository and curation standard reference for quality list design. Verified: 2026-03-04 · License: CC0-1.0 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21737465,
+                "language": null,
+                "last_commit": "2026-08-21T12:39:13Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 499520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome React",
+              "description": "Broad React ecosystem curation for discovering tools transferable to React Native stacks. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22670857,
+                "language": null,
+                "last_commit": "2026-08-20T07:58:12Z",
+                "owner": "enaqx",
+                "repo": "awesome-react",
+                "stars": 74384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome React Native",
+              "description": "Long-standing curated list of React Native tools, components, and learning materials. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32948863,
+                "language": "JavaScript",
+                "last_commit": "2024-07-05T13:12:41Z",
+                "owner": "jondot",
+                "repo": "awesome-react-native",
+                "stars": 35690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Native Apps (Curated Open Source List)",
+              "description": "Curated collection of open-source React Native apps for architecture and UI inspiration. Verified: 2026-03-04 · Tags:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72874471,
+                "language": null,
+                "last_commit": "2026-07-12T01:17:13Z",
+                "owner": "ReactNativeNews",
+                "repo": "React-Native-Apps",
+                "stars": 10394
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Curated Lists (4)"
+        }
+      ],
+      "title": "Learning & Community"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T04:13:37.131Z",
+    "last_updated": "2026-08-24T14:38:47.084Z",
     "original_repository": "eyupk3/awesome-expo-react-native-dx",
     "original_repository_id": 1172487358,
     "original_repository_sha": "4be8c3ce1a226f2be82f560be20df91d33d3ea75",

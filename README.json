@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T03:59:34Z",
                 "owner": "expo",
                 "repo": "expo",
-                "stars": 51808
+                "stars": 51811
               }
             }
           ],
@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-24T23:48:49Z",
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58606
+                "stars": 58605
               }
             }
           ],
@@ -238,7 +238,7 @@
                 "last_commit": "2026-08-24T20:11:06Z",
                 "owner": "instantdb",
                 "repo": "instant",
-                "stars": 10487
+                "stars": 10488
               }
             },
             {
@@ -300,7 +300,7 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:42:42Z",
+                "last_commit": "2026-08-25T06:30:18Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
                 "stars": 57114
@@ -517,7 +517,7 @@
                 "last_commit": "2026-08-24T22:28:37Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24149
+                "stars": 24150
               }
             },
             {
@@ -868,7 +868,7 @@
                 "last_commit": "2026-08-21T14:55:50Z",
                 "owner": "jquense",
                 "repo": "yup",
-                "stars": 23672
+                "stars": 23671
               }
             }
           ],
@@ -1299,7 +1299,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:00:36Z",
+                "last_commit": "2026-08-25T05:19:14Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -1329,7 +1329,7 @@
                 "archived": false,
                 "id": 285902689,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T03:48:34Z",
+                "last_commit": "2026-08-25T06:23:10Z",
                 "owner": "Expensify",
                 "repo": "App",
                 "stars": 5012
@@ -1384,7 +1384,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499671
+                "stars": 499707
               }
             },
             {
@@ -1399,7 +1399,7 @@
                 "last_commit": "2026-08-20T07:58:12Z",
                 "owner": "enaqx",
                 "repo": "awesome-react",
-                "stars": 74390
+                "stars": 74392
               }
             },
             {
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:07:55.974Z",
+    "last_updated": "2026-08-25T06:31:54.192Z",
     "original_repository": "eyupk3/awesome-expo-react-native-dx",
     "original_repository_id": 1172487358,
     "original_repository_sha": "4be8c3ce1a226f2be82f560be20df91d33d3ea75",

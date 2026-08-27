@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 65750241,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:24:29Z",
+                "last_commit": "2026-08-27T14:22:45Z",
                 "owner": "expo",
                 "repo": "expo",
-                "stars": 51850
+                "stars": 51851
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-25T07:14:50Z",
                 "owner": "AmanVarshney01",
                 "repo": "create-better-t-stack",
-                "stars": 5673
+                "stars": 5674
               }
             },
             {
@@ -238,7 +238,7 @@
                 "last_commit": "2026-08-25T23:54:24Z",
                 "owner": "instantdb",
                 "repo": "instant",
-                "stars": 10493
+                "stars": 10494
               }
             },
             {
@@ -300,10 +300,10 @@
                 "archived": false,
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:28:24Z",
+                "last_commit": "2026-08-27T14:25:15Z",
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57136
+                "stars": 57138
               }
             }
           ],
@@ -353,7 +353,7 @@
                 "last_commit": "2026-07-17T05:30:31Z",
                 "owner": "nativewind",
                 "repo": "nativewind",
-                "stars": 8065
+                "stars": 8066
               }
             },
             {
@@ -435,7 +435,7 @@
                 "last_commit": "2026-08-26T05:57:03Z",
                 "owner": "gluestack",
                 "repo": "gluestack-ui",
-                "stars": 5269
+                "stars": 5270
               }
             },
             {
@@ -477,7 +477,7 @@
                 "archived": false,
                 "id": 71323749,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T12:43:07Z",
+                "last_commit": "2026-08-27T13:43:04Z",
                 "owner": "callstack",
                 "repo": "react-native-paper",
                 "stars": 14450
@@ -517,7 +517,7 @@
                 "last_commit": "2026-08-26T19:50:13Z",
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24198
+                "stars": 24201
               }
             },
             {
@@ -587,7 +587,7 @@
                 "archived": false,
                 "id": 130961487,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:34:18Z",
+                "last_commit": "2026-08-27T14:09:36Z",
                 "owner": "software-mansion",
                 "repo": "react-native-reanimated",
                 "stars": 10968
@@ -677,7 +677,7 @@
                 "last_commit": "2026-08-24T11:34:15Z",
                 "owner": "Expensify",
                 "repo": "react-native-live-markdown",
-                "stars": 1335
+                "stars": 1336
               }
             },
             {
@@ -736,7 +736,7 @@
                 "last_commit": "2026-05-09T18:28:02Z",
                 "owner": "gorhom",
                 "repo": "react-native-bottom-sheet",
-                "stars": 9076
+                "stars": 9077
               }
             },
             {
@@ -1141,7 +1141,7 @@
                 "archived": false,
                 "id": 73627053,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:35:56Z",
+                "last_commit": "2026-08-27T11:43:55Z",
                 "owner": "AppsFlyerSDK",
                 "repo": "appsflyer-react-native-plugin",
                 "stars": 320
@@ -1314,10 +1314,10 @@
                 "archived": false,
                 "id": 501027541,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:53:06Z",
+                "last_commit": "2026-08-27T14:02:02Z",
                 "owner": "bluesky-social",
                 "repo": "social-app",
-                "stars": 18241
+                "stars": 18242
               }
             },
             {
@@ -1329,7 +1329,7 @@
                 "archived": false,
                 "id": 285902689,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:19:41Z",
+                "last_commit": "2026-08-27T14:21:49Z",
                 "owner": "Expensify",
                 "repo": "App",
                 "stars": 5013
@@ -1384,7 +1384,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500361
+                "stars": 500404
               }
             },
             {
@@ -1399,7 +1399,7 @@
                 "last_commit": "2026-08-20T07:58:12Z",
                 "owner": "enaqx",
                 "repo": "awesome-react",
-                "stars": 74407
+                "stars": 74409
               }
             },
             {
@@ -1414,7 +1414,7 @@
                 "last_commit": "2026-08-26T14:11:18Z",
                 "owner": "jondot",
                 "repo": "awesome-react-native",
-                "stars": 35692
+                "stars": 35694
               }
             },
             {
@@ -1442,7 +1442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:03.758Z",
+    "last_updated": "2026-08-27T14:26:34.672Z",
     "original_repository_info": {
       "archived": false,
       "id": 1172487358,

@@ -12,12 +12,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+                "homepage": "https://docs.expo.dev",
                 "id": 65750241,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:31:28Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:55:15Z",
+                "open_issues": 754,
                 "owner": "expo",
                 "repo": "expo",
-                "stars": 51869
+                "stars": 51884,
+                "topics": [
+                  "android",
+                  "app-framework",
+                  "expo",
+                  "framework",
+                  "frontend",
+                  "ios",
+                  "javascript",
+                  "mobile",
+                  "native",
+                  "native-apps",
+                  "react",
+                  "react-native",
+                  "typescript",
+                  "universal",
+                  "web",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -35,12 +57,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations",
+                "homepage": "https://better-t-stack.dev",
                 "id": 930459670,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:25:20Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:03:22Z",
+                "open_issues": 160,
                 "owner": "AmanVarshney01",
                 "repo": "create-better-t-stack",
-                "stars": 5677
+                "stars": 5680,
+                "topics": [
+                  "better-auth",
+                  "bun",
+                  "clack-prompt",
+                  "cli",
+                  "drizzle-orm",
+                  "expo",
+                  "fumadocs",
+                  "hono",
+                  "prisma",
+                  "shadcn-ui",
+                  "solid",
+                  "sveltekit",
+                  "tailwindcss",
+                  "tanstack-router",
+                  "turborepo",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -51,12 +95,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.",
+                "homepage": "https://rn.new",
                 "id": 652905376,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-08T02:32:30Z",
+                "open_issues": 9,
                 "owner": "roninoss",
                 "repo": "create-expo-stack",
-                "stars": 2574
+                "stars": 2574,
+                "topics": [
+                  "boilerplate",
+                  "cli",
+                  "expo",
+                  "expo-cli",
+                  "expo-router",
+                  "expo-template",
+                  "firebase",
+                  "nativewind",
+                  "react-native",
+                  "react-native-template",
+                  "supabase",
+                  "tailwindcss",
+                  "tamagui",
+                  "template",
+                  "templates",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -67,12 +133,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.",
+                "homepage": "https://infinite.red/ignite",
                 "id": 51452356,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-07T01:18:58Z",
+                "open_issues": 34,
                 "owner": "infinitered",
                 "repo": "ignite",
-                "stars": 19936
+                "stars": 19938,
+                "topics": [
+                  "boilerplate",
+                  "cli",
+                  "expo",
+                  "generator",
+                  "mst",
+                  "react-native",
+                  "react-native-generator"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -90,12 +169,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
+                "homepage": "https://turbo.t3.gg",
                 "id": 527335176,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T21:18:00Z",
+                "open_issues": 60,
                 "owner": "t3-oss",
                 "repo": "create-t3-turbo",
-                "stars": 6106
+                "stars": 6106,
+                "topics": [
+                  "better-auth",
+                  "expo",
+                  "nextjs",
+                  "t3-stack",
+                  "tailwindcss",
+                  "tanstack",
+                  "tanstack-form",
+                  "tanstack-query",
+                  "tanstack-start",
+                  "trpc",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -106,12 +202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free UI components I use for building Expo Router apps",
+                "homepage": "https://crispy.expo.app/",
                 "id": 908744035,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-11T00:26:43Z",
+                "open_issues": 6,
                 "owner": "EvanBacon",
                 "repo": "crispy",
-                "stars": 570
+                "stars": 570,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -122,12 +223,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is an Expo starter focused on email/password authentication with Clerk, Convex, and Expo Router route protection.",
+                "homepage": null,
                 "id": 656298482,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-02T17:40:39Z",
+                "open_issues": 0,
                 "owner": "flemingvincent",
                 "repo": "expo-clerk-convex",
-                "stars": 782
+                "stars": 782,
+                "topics": [
+                  "clerk",
+                  "convex",
+                  "expo",
+                  "expo-router",
+                  "react-native",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -138,12 +251,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 A template for your next React Native project: Expo, PNPM, TypeScript, TailwindCSS, Husky, EAS, GitHub Actions, Env Vars, expo-router, react-query, react-hook-form.",
+                "homepage": "https://starter.obytes.com",
                 "id": 294419498,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-02T13:59:47Z",
+                "open_issues": 12,
                 "owner": "obytes",
                 "repo": "react-native-template-obytes",
-                "stars": 4327
+                "stars": 4329,
+                "topics": [
+                  "android",
+                  "boilerplate",
+                  "expo",
+                  "expo-router",
+                  "expo-starter",
+                  "react",
+                  "react-native",
+                  "react-native-boilerplate",
+                  "react-native-template",
+                  "react-navigation",
+                  "react-query",
+                  "starter-template",
+                  "tailwindcss",
+                  "template",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -167,12 +301,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👻 Primitive and flexible state management for React",
+                "homepage": "https://jotai.org",
                 "id": 286867459,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T08:32:54Z",
+                "open_issues": 4,
                 "owner": "pmndrs",
                 "repo": "jotai",
-                "stars": 21246
+                "stars": 21247,
+                "topics": [
+                  "atomic",
+                  "hacktoberfest",
+                  "management",
+                  "react",
+                  "state"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -183,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official, opinionated, batteries-included toolset for efficient Redux development",
+                "homepage": "https://redux-toolkit.js.org",
                 "id": 123732482,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T03:29:12Z",
+                "open_issues": 292,
                 "owner": "reduxjs",
                 "repo": "redux-toolkit",
-                "stars": 11225
+                "stars": 11226,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -199,12 +349,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐻 Bear necessities for state management in React",
+                "homepage": "https://zustand-demo.pmnd.rs/",
                 "id": 180328715,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:48:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:00:49Z",
+                "open_issues": 5,
                 "owner": "pmndrs",
                 "repo": "zustand",
-                "stars": 58624
+                "stars": 58626,
+                "topics": [
+                  "hacktoberfest",
+                  "hooks",
+                  "react",
+                  "react-context",
+                  "reactjs",
+                  "redux",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -222,12 +385,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!",
+                "homepage": "https://mrousavy.com",
                 "id": 341816758,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T17:09:46Z",
-                "owner": "mrousavy",
+                "open_issues": 16,
+                "owner": "margelo",
                 "repo": "react-native-mmkv",
-                "stars": 8485
+                "stars": 8486,
+                "topics": [
+                  "android",
+                  "cpp",
+                  "database",
+                  "fast",
+                  "ios",
+                  "jni",
+                  "jsi",
+                  "localstorage",
+                  "mmkv",
+                  "native-module",
+                  "nitro",
+                  "react",
+                  "react-native",
+                  "storage",
+                  "turbomodule"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -245,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.",
+                "homepage": "https://instantdb.com",
                 "id": 844738531,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:32:10Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:18:17Z",
+                "open_issues": 18,
                 "owner": "instantdb",
                 "repo": "instant",
-                "stars": 10495
+                "stars": 10496,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -261,12 +450,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reactive data store & sync engine.",
+                "homepage": "https://tinybase.org",
                 "id": 443220240,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-19T22:56:55Z",
+                "open_issues": 14,
                 "owner": "tinyplex",
                 "repo": "tinybase",
-                "stars": 5159
+                "stars": 5160,
+                "topics": [
+                  "agent-skills",
+                  "crdt",
+                  "data",
+                  "javascript",
+                  "local-first",
+                  "react",
+                  "reactive",
+                  "solid",
+                  "state",
+                  "svelte",
+                  "sync-engine",
+                  "tiny",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -284,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 761992227,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-06T13:16:04Z",
+                "open_issues": 38,
                 "owner": "prisma",
                 "repo": "react-native-prisma",
-                "stars": 267
+                "stars": 267,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -313,12 +526,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+                "homepage": "https://appwrite.io",
                 "id": 180190854,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:12:24Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T03:39:00Z",
+                "open_issues": 1027,
                 "owner": "appwrite",
                 "repo": "appwrite",
-                "stars": 57152
+                "stars": 57155,
+                "topics": [
+                  "android",
+                  "appwrite",
+                  "backend",
+                  "backend-as-a-service",
+                  "docker",
+                  "firebase",
+                  "flutter",
+                  "hosting",
+                  "ios",
+                  "javascript",
+                  "nextjs",
+                  "react",
+                  "react-native",
+                  "reactnative",
+                  "self-hosted",
+                  "selfhosted",
+                  "serverless",
+                  "supabase",
+                  "swift",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -336,12 +575,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Sign-in for your React Native applications",
+                "homepage": "https://react-native-google-signin.github.io/",
                 "id": 40642004,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-27T22:31:24Z",
+                "open_issues": 23,
                 "owner": "react-native-google-signin",
                 "repo": "google-signin",
-                "stars": 3550
+                "stars": 3551,
+                "topics": [
+                  "googleauth",
+                  "googlesignin",
+                  "hacktoberfest",
+                  "oauth2",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -365,12 +615,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The utility-first workflow you love from Tailwind CSS in your React Native applications.",
+                "homepage": "https://nativewind.dev",
                 "id": 477048503,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-17T05:30:31Z",
+                "open_issues": 66,
                 "owner": "nativewind",
                 "repo": "nativewind",
-                "stars": 8066
+                "stars": 8066,
+                "topics": [
+                  "css",
+                  "nativewind",
+                  "react",
+                  "react-native",
+                  "react-native-web",
+                  "tailwind",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -381,12 +644,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Level up your React Native StyleSheet",
+                "homepage": "https://unistyl.es",
                 "id": 699781382,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-13T05:38:11Z",
+                "open_issues": 44,
                 "owner": "jpudysz",
                 "repo": "react-native-unistyles",
-                "stars": 2935
+                "stars": 2935,
+                "topics": [
+                  "expo",
+                  "react",
+                  "react-native",
+                  "react-native-macos",
+                  "react-native-web",
+                  "react-native-windows",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -397,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A type-enforced system for building UI components in React Native with TypeScript.",
+                "homepage": "https://shopify.github.io/restyle/",
                 "id": 206762288,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-09T08:19:48Z",
+                "open_issues": 37,
                 "owner": "Shopify",
                 "repo": "restyle",
-                "stars": 3399
+                "stars": 3399,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -413,12 +694,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.",
+                "homepage": "https://tamagui.dev",
                 "id": 304740870,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:28:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:53:34Z",
+                "open_issues": 106,
                 "owner": "tamagui",
                 "repo": "tamagui",
-                "stars": 14159
+                "stars": 14162,
+                "topics": [
+                  "atomic-css",
+                  "css-in-js",
+                  "optimizing-compiler",
+                  "react",
+                  "react-native",
+                  "react-native-web",
+                  "tailwind",
+                  "typescript",
+                  "ui",
+                  "ui-components",
+                  "vite",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -429,12 +728,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "From the creators of Unistyles: The fastest Tailwind bindings for React Native",
+                "homepage": "https://docs.uniwind.dev",
                 "id": 1028229430,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:50:07Z",
+                "open_issues": 7,
                 "owner": "uni-stack",
                 "repo": "uniwind",
-                "stars": 1682
+                "stars": 1682,
+                "topics": [
+                  "android",
+                  "expo",
+                  "expo-go",
+                  "ios",
+                  "react-native",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -452,12 +763,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))",
+                "homepage": "https://gluestack.io/",
                 "id": 587710850,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-26T05:57:03Z",
+                "open_issues": 12,
                 "owner": "gluestack",
                 "repo": "gluestack-ui",
-                "stars": 5272
+                "stars": 5272,
+                "topics": [
+                  "accessibility",
+                  "component-library",
+                  "customizable-components",
+                  "design-system",
+                  "react",
+                  "react-native",
+                  "styled-components",
+                  "ui",
+                  "ui-components",
+                  "universal-components"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -468,12 +795,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱Beautiful, fast and modern React Native UI library",
+                "homepage": "https://heroui.com/docs/native/getting-started",
                 "id": 995504072,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:20:04Z",
+                "open_issues": 10,
                 "owner": "heroui-inc",
                 "repo": "heroui-native",
-                "stars": 3626
+                "stars": 3626,
+                "topics": [
+                  "android",
+                  "design-system",
+                  "expo",
+                  "heroui",
+                  "ios",
+                  "library",
+                  "nativewind",
+                  "react-native",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -484,12 +826,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-Platform React Native UI Toolkit",
+                "homepage": "https://reactnativeelements.com",
                 "id": 67709808,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2026-05-21T14:17:40Z",
+                "open_issues": 156,
                 "owner": "react-native-elements",
                 "repo": "react-native-elements",
-                "stars": 25866
+                "stars": 25867,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "hacktoberfest",
+                  "ios",
+                  "mobile-app",
+                  "react",
+                  "react-native",
+                  "ui",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -500,12 +857,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design for React Native (Android & iOS)",
+                "homepage": "https://reactnativepaper.com",
                 "id": 71323749,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:21:03Z",
+                "open_issues": 475,
                 "owner": "callstack",
                 "repo": "react-native-paper",
-                "stars": 14448
+                "stars": 14448,
+                "topics": [
+                  "hacktoberfest",
+                  "material-design",
+                  "react-native",
+                  "ui-kit"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -516,12 +883,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bringing shadcn/ui to React Native. Beautifully crafted components with Nativewind/Uniwind, open source, and almost as easy to use.",
+                "homepage": "https://reactnativereusables.com",
                 "id": 732431229,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-02T14:22:00Z",
+                "open_issues": 16,
                 "owner": "founded-labs",
                 "repo": "react-native-reusables",
-                "stars": 8626
+                "stars": 8626,
+                "topics": [
+                  "expo",
+                  "radix-ui",
+                  "react-native",
+                  "react-native-reusables",
+                  "react-native-web",
+                  "shadcn",
+                  "shadcn-ui",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -539,12 +920,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+                "homepage": "https://lucide.dev",
                 "id": 270722949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T13:37:32Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:23:07Z",
+                "open_issues": 523,
                 "owner": "lucide-icons",
                 "repo": "lucide",
-                "stars": 24220
+                "stars": 24228,
+                "topics": [
+                  "feather-icons",
+                  "figma",
+                  "icons",
+                  "react",
+                  "svg",
+                  "svg-icons",
+                  "svgs",
+                  "ui-components",
+                  "ui-design",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -555,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SVG library for React Native, React Native Web, and plain React web projects.",
+                "homepage": null,
                 "id": 49820627,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T08:28:01Z",
+                "open_issues": 236,
                 "owner": "software-mansion",
                 "repo": "react-native-svg",
-                "stars": 8003
+                "stars": 8003,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -584,12 +986,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lottie wrapper for React Native.",
+                "homepage": "https://airbnb.io/lottie/#/react-native",
                 "id": 80233816,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T20:26:01Z",
+                "open_issues": 14,
                 "owner": "lottie-react-native",
                 "repo": "lottie-react-native",
-                "stars": 17209
+                "stars": 17210,
+                "topics": [
+                  "after-effects",
+                  "animations",
+                  "bodymovin",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -600,12 +1013,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐼  The React Native (+ Web) animation library, powered by Reanimated 3.",
+                "homepage": "https://moti.fyi",
                 "id": 304909106,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-11T20:26:04Z",
+                "open_issues": 44,
                 "owner": "nandorojo",
                 "repo": "moti",
-                "stars": 4547
+                "stars": 4546,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -616,12 +1034,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native's Animated library reimplemented",
+                "homepage": "http://docs.swmansion.com/react-native-reanimated/",
                 "id": 130961487,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:19:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:01:03Z",
+                "open_issues": 323,
                 "owner": "software-mansion",
                 "repo": "react-native-reanimated",
-                "stars": 10969
+                "stars": 10970,
+                "topics": [
+                  "animation",
+                  "gesture",
+                  "javascript",
+                  "multithreading",
+                  "react-native",
+                  "react-native-reanimated",
+                  "react-native-worklets",
+                  "worklets"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -639,12 +1071,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance React Native Graphics using Skia",
+                "homepage": "https://shopify.github.io/react-native-skia",
                 "id": 425845325,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-23T17:13:27Z",
+                "open_issues": 99,
                 "owner": "Shopify",
                 "repo": "react-native-skia",
-                "stars": 8531
+                "stars": 8533,
+                "topics": [
+                  "react",
+                  "react-native",
+                  "skia"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -668,12 +1109,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native wrapper for the Android ViewPager and iOS UIPageViewController.",
+                "homepage": null,
                 "id": 169435703,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T08:04:59Z",
+                "open_issues": 183,
                 "owner": "callstack",
                 "repo": "react-native-pager-view",
-                "stars": 3353
+                "stars": 3354,
+                "topics": [
+                  "android",
+                  "hacktoberfest",
+                  "ios",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -684,12 +1135,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)",
+                "homepage": "https://react-native-reanimated-carousel.vercel.app",
                 "id": 403858368,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T01:07:51Z",
+                "open_issues": 3,
                 "owner": "dohooo",
                 "repo": "react-native-reanimated-carousel",
-                "stars": 3429
+                "stars": 3429,
+                "topics": [
+                  "android",
+                  "carousel",
+                  "hacktoberfest",
+                  "infinite-scroll",
+                  "ios",
+                  "react-native",
+                  "react-native-carousel",
+                  "react-native-snap",
+                  "react-native-swiper",
+                  "reanimated",
+                  "snap",
+                  "swiper",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -707,12 +1177,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drop-in replacement for React Native's TextInput component with Markdown formatting.",
+                "homepage": "https://www.npmjs.com/package/@expensify/react-native-live-markdown",
                 "id": 721036389,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:34:15Z",
+                "open_issues": 59,
                 "owner": "Expensify",
                 "repo": "react-native-live-markdown",
-                "stars": 1336
+                "stars": 1336,
+                "topics": [
+                  "markdown",
+                  "react-native",
+                  "textinput"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -723,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native 100% compatible CommonMark renderer",
+                "homepage": null,
                 "id": 218278456,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-20T15:52:45Z",
+                "open_issues": 1,
                 "owner": "iamacup",
                 "repo": "react-native-markdown-display",
-                "stars": 791
+                "stars": 791,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -746,12 +1230,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated toast component for React Native. A port of @emilkowalski's sonner.",
+                "homepage": "https://sonner-native.netlify.app",
                 "id": 851900289,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T09:40:55Z",
+                "open_issues": 15,
                 "owner": "gunnartorfis",
                 "repo": "sonner-native-toasts",
-                "stars": 1339
+                "stars": 1339,
+                "topics": [
+                  "notifications",
+                  "react-native",
+                  "react-native-toast",
+                  "sonner",
+                  "toast",
+                  "toasts"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -769,12 +1265,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A performant interactive bottom sheet with fully configurable options 🚀",
+                "homepage": "https://gorhom.dev/react-native-bottom-sheet/",
                 "id": 284031822,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-09T18:28:02Z",
+                "open_issues": 84,
                 "owner": "gorhom",
                 "repo": "react-native-bottom-sheet",
-                "stars": 9080
+                "stars": 9080,
+                "topics": [
+                  "bottom-sheet",
+                  "bottomsheet",
+                  "modal",
+                  "react-native",
+                  "reanimated",
+                  "sheet"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -785,12 +1293,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The true native bottom sheet experience 💩",
+                "homepage": "https://sheet.lodev09.com",
                 "id": 776272298,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T23:40:41Z",
+                "open_issues": 4,
                 "owner": "lodev09",
                 "repo": "react-native-true-sheet",
-                "stars": 2045
+                "stars": 2046,
+                "topics": [
+                  "android",
+                  "bottom-sheet",
+                  "ios",
+                  "modal-sheet",
+                  "native-sheet",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -808,12 +1328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple reusable React error boundary component",
+                "homepage": "https://react-error-boundary-lib.vercel.app",
                 "id": 97559842,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T16:31:41Z",
+                "open_issues": 1,
                 "owner": "bvaughn",
                 "repo": "react-error-boundary",
-                "stars": 7985
+                "stars": 7985,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -837,12 +1362,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build forms in React, without the tears 😭 ",
+                "homepage": "https://formik.org",
                 "id": 94367677,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-10T17:02:06Z",
+                "open_issues": 839,
                 "owner": "jaredpalmer",
                 "repo": "formik",
-                "stars": 34329
+                "stars": 34329,
+                "topics": [
+                  "form",
+                  "formik",
+                  "forms",
+                  "higher-order-component",
+                  "hooks",
+                  "react",
+                  "react-hooks",
+                  "react-native",
+                  "render-props"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -853,12 +1393,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+                "homepage": "https://react-hook-form.com",
                 "id": 174038031,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T09:39:34Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:57:17Z",
+                "open_issues": 7,
                 "owner": "react-hook-form",
                 "repo": "react-hook-form",
-                "stars": 44842
+                "stars": 44843,
+                "topics": [
+                  "dx",
+                  "form-builder",
+                  "forms",
+                  "react-hooks",
+                  "react-native",
+                  "reactjs",
+                  "typescript",
+                  "ux",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -869,12 +1424,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written with native code to achieve the best possible look, feel and performance.",
+                "homepage": null,
                 "id": 128670217,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-06-05T18:28:03Z",
+                "open_issues": 80,
                 "owner": "henninghall",
                 "repo": "react-native-date-picker",
-                "stars": 2504
+                "stars": 2504,
+                "topics": [
+                  "date-time-picker",
+                  "datepicker",
+                  "datepicker-component",
+                  "datetime",
+                  "react-native",
+                  "react-native-date-time-picker",
+                  "react-native-datepicker",
+                  "react-native-time-picker",
+                  "time-picker",
+                  "timepicker"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -885,12 +1456,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.",
+                "homepage": "https://tanstack.com/form",
                 "id": 75044525,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:25:18Z",
+                "open_issues": 181,
                 "owner": "TanStack",
                 "repo": "form",
-                "stars": 6675
+                "stars": 6676,
+                "topics": [
+                  "angular",
+                  "form",
+                  "forms",
+                  "hacktoberfest",
+                  "hooks",
+                  "lit",
+                  "react",
+                  "solid",
+                  "tanstack",
+                  "vue",
+                  "yup",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -908,12 +1497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dead simple Object schema validation",
+                "homepage": null,
                 "id": 24349832,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:01:31Z",
+                "open_issues": 252,
                 "owner": "jquense",
                 "repo": "yup",
-                "stars": 23672
+                "stars": 23672,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -937,12 +1531,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗜️Compress Image, Video, and Audio same like Whatsapp 🚀✨",
+                "homepage": null,
                 "id": 371665826,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-07-25T22:49:02Z",
+                "open_issues": 32,
                 "owner": "numandev1",
                 "repo": "react-native-compressor",
-                "stars": 1325
+                "stars": 1325,
+                "topics": [
+                  "audio",
+                  "background-upload",
+                  "bitrate",
+                  "compress",
+                  "compress-audio",
+                  "compress-images",
+                  "compress-videos",
+                  "compression",
+                  "compressor",
+                  "download",
+                  "downloader",
+                  "image",
+                  "javascript",
+                  "react-native",
+                  "thumbnail",
+                  "thumbnail-generator",
+                  "upload",
+                  "uploader",
+                  "video",
+                  "whatsapp"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -953,12 +1573,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚩 FastImage, performant React Native image component.",
+                "homepage": null,
                 "id": 88124214,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-14T09:29:08Z",
+                "open_issues": 476,
                 "owner": "DylanVann",
                 "repo": "react-native-fast-image",
-                "stars": 8422
+                "stars": 8422,
+                "topics": [
+                  "cocoapod",
+                  "glide",
+                  "hacktoberfest",
+                  "image",
+                  "image-cache",
+                  "priority",
+                  "react-native",
+                  "sdwebimage"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -976,12 +1610,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📸 A powerful, high-performance React Native Camera library.",
+                "homepage": "https://visioncamera.margelo.com",
                 "id": 340402576,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:34:25Z",
-                "owner": "mrousavy",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:16:19Z",
+                "open_issues": 74,
+                "owner": "margelo",
                 "repo": "react-native-vision-camera",
-                "stars": 9583
+                "stars": 9584,
+                "topics": [
+                  "android",
+                  "barcode",
+                  "camera",
+                  "instagram",
+                  "ios",
+                  "javascript",
+                  "jsi",
+                  "library",
+                  "ml",
+                  "native",
+                  "qr",
+                  "qrcode",
+                  "react",
+                  "react-native",
+                  "react-native-camera",
+                  "scanner",
+                  "snapchat",
+                  "typescript",
+                  "vision",
+                  "worklet"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1005,12 +1665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1182976622,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-15T08:20:55Z",
+                "open_issues": 0,
                 "owner": "MULERx",
                 "repo": "expo-otp-autofill",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1021,12 +1686,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⌨️ Keyboard manager which works in identical way on both iOS and Android",
+                "homepage": "https://kirillzyusko.github.io/react-native-keyboard-controller/",
                 "id": 482596054,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-17T16:55:55Z",
+                "open_issues": 120,
                 "owner": "kirillzyusko",
                 "repo": "react-native-keyboard-controller",
-                "stars": 3705
+                "stars": 3705,
+                "topics": [
+                  "android",
+                  "animation",
+                  "avoiding-view",
+                  "chat",
+                  "extend-keyboard",
+                  "focused-input",
+                  "interactive",
+                  "ios",
+                  "keyboard",
+                  "keyboard-background-view",
+                  "keyboard-effects",
+                  "keyboard-toolbar",
+                  "over-keyboard-view",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1037,12 +1722,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native Network Info API for Android & iOS",
+                "homepage": null,
                 "id": 169431948,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-15T14:37:30Z",
+                "open_issues": 172,
                 "owner": "react-native-netinfo",
                 "repo": "react-native-netinfo",
-                "stars": 2180
+                "stars": 2180,
+                "topics": [
+                  "network",
+                  "networking",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1053,12 +1747,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unified permissions API for React Native on iOS, Android and Windows.",
+                "homepage": null,
                 "id": 54657328,
                 "language": "Objective-C++",
+                "license": "MIT",
                 "last_commit": "2026-07-23T17:53:30Z",
+                "open_issues": 7,
                 "owner": "zoontek",
                 "repo": "react-native-permissions",
-                "stars": 4380
+                "stars": 4380,
+                "topics": [
+                  "authorization",
+                  "permissions",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1069,12 +1773,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Social share, sending simple data to other apps.",
+                "homepage": "https://react-native-share.github.io/react-native-share",
                 "id": 43406976,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:29:21Z",
+                "open_issues": 18,
                 "owner": "react-native-share",
                 "repo": "react-native-share",
-                "stars": 3893
+                "stars": 3893,
+                "topics": [
+                  "android",
+                  "bridge",
+                  "intent",
+                  "ios",
+                  "react",
+                  "react-native",
+                  "share",
+                  "uwp"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1085,12 +1803,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snapshot a React Native view and save it to an image",
+                "homepage": "https://github.com/gre/react-native-view-shot-example",
                 "id": 66399014,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T12:52:20Z",
+                "open_issues": 25,
                 "owner": "gre",
                 "repo": "react-native-view-shot",
-                "stars": 2947
+                "stars": 2947,
+                "topics": [
+                  "capture",
+                  "react-native",
+                  "snapshot"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1101,12 +1828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native Cross-Platform WebView",
+                "homepage": "https://github.com/react-native-webview/react-native-webview/blob/master/docs/Getting-Started.md",
                 "id": 147979549,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-12T08:04:54Z",
+                "open_issues": 50,
                 "owner": "react-native-webview",
                 "repo": "react-native-webview",
-                "stars": 7191
+                "stars": 7191,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1124,12 +1856,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native Mapview component for iOS + Android",
+                "homepage": null,
                 "id": 48764652,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-05T03:06:36Z",
+                "open_issues": 96,
                 "owner": "react-native-maps",
                 "repo": "react-native-maps",
-                "stars": 15995
+                "stars": 15995,
+                "topics": [
+                  "google-maps",
+                  "maps",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1153,12 +1894,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚛️ A feature rich notifications library for React Native.",
+                "homepage": "https://docs.page/invertase/notifee",
                 "id": 93151463,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-07T11:48:23Z",
+                "open_issues": 29,
                 "owner": "invertase",
                 "repo": "notifee",
-                "stars": 2176
+                "stars": 2176,
+                "topics": [
+                  "android",
+                  "hactoberfest",
+                  "ios",
+                  "notifications",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1169,12 +1921,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OneSignal makes engaging customers simple and is the fastest, most reliable service to send push notifications, in-app messages, SMS, and emails. This plugin makes it easy to integrate your React Native app with OneSignal. https://onesignal.com",
+                "homepage": null,
                 "id": 52082254,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T01:25:23Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:30:08Z",
+                "open_issues": 29,
                 "owner": "OneSignal",
                 "repo": "react-native-onesignal",
-                "stars": 1592
+                "stars": 1592,
+                "topics": [
+                  "android",
+                  "ios",
+                  "mobile",
+                  "notifications",
+                  "onesignal",
+                  "onesignal-instructions",
+                  "onesignal-notifications",
+                  "push",
+                  "push-notifications",
+                  "react-native",
+                  "react-native-onesignal"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1198,12 +1967,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " AppsFlyer plugin for React Native",
+                "homepage": null,
                 "id": 73627053,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:43:55Z",
+                "open_issues": 6,
                 "owner": "AppsFlyerSDK",
                 "repo": "appsflyer-react-native-plugin",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "appsflyer",
+                  "react-native",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1214,12 +1992,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official React Native Tracking Library for Mixpanel Analytics",
+                "homepage": "https://mixpanel.com",
                 "id": 238638291,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T17:59:03Z",
+                "open_issues": 78,
                 "owner": "mixpanel",
                 "repo": "mixpanel-react-native",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "analytics",
+                  "analytics-tracking",
+                  "android",
+                  "ios",
+                  "mixpanel",
+                  "mixpanel-sdk",
+                  "native",
+                  "react",
+                  "react-native",
+                  "sdk",
+                  "tracking"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1243,12 +2038,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Voltra lets React Native developers build native iOS Live Activities, Dynamic Island layouts, and widgets as React components without writing Swift. It supports hot reload, push updates, and includes a config plugin that wires everything automatically.",
+                "homepage": "https://use-voltra.dev",
                 "id": 1107515227,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T08:55:03Z",
+                "open_issues": 39,
                 "owner": "callstackincubator",
                 "repo": "voltra",
-                "stars": 810
+                "stars": 810,
+                "topics": [
+                  "ios",
+                  "live-activity",
+                  "react-native",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1266,12 +2071,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI",
+                "homepage": "https://nitro.margelo.com",
                 "id": 814092544,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:25:43Z",
-                "owner": "mrousavy",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:16:29Z",
+                "open_issues": 162,
+                "owner": "margelo",
                 "repo": "nitro",
-                "stars": 1915
+                "stars": 1918,
+                "topics": [
+                  "cpp",
+                  "fast",
+                  "hybrid",
+                  "hybrid-object",
+                  "jsi",
+                  "kotlin",
+                  "library",
+                  "modules",
+                  "native",
+                  "nitro",
+                  "nitro-modules",
+                  "react",
+                  "react-native",
+                  "swift",
+                  "templates",
+                  "turbomodules"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1295,12 +2122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A better list for React Native",
+                "homepage": "https://shopify.github.io/flash-list/",
                 "id": 440224087,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T08:06:33Z",
+                "open_issues": 186,
                 "owner": "Shopify",
                 "repo": "flash-list",
-                "stars": 7185
+                "stars": 7186,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1311,12 +2143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance list component for React Native and React",
+                "homepage": "https://www.legendapp.com/open-source/list",
                 "id": 891395218,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:14:43Z",
+                "open_issues": 78,
                 "owner": "LegendApp",
                 "repo": "legend-list",
-                "stars": 3326
+                "stars": 3326,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1334,12 +2171,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)",
+                "homepage": "https://www.npmjs.com/package/@welldone-software/why-did-you-render",
                 "id": 157014461,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-15T11:11:13Z",
+                "open_issues": 45,
                 "owner": "welldone-software",
                 "repo": "why-did-you-render",
-                "stars": 12512
+                "stars": 12512,
+                "topics": [
+                  "component",
+                  "hooks-tracking",
+                  "performance",
+                  "pure",
+                  "purecomponent",
+                  "react",
+                  "react-native",
+                  "render",
+                  "tool",
+                  "update"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1363,12 +2216,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.",
+                "homepage": null,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:40:57Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:54:32Z",
+                "open_issues": 20,
                 "owner": "artsy",
                 "repo": "eigen",
-                "stars": 3775
+                "stars": 3774,
+                "topics": [
+                  "android",
+                  "app",
+                  "app-store",
+                  "art",
+                  "ios",
+                  "objective-c",
+                  "react-native",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1379,12 +2246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Bluesky Social application for Web, iOS, and Android",
+                "homepage": "https://bsky.app",
                 "id": 501027541,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:25:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:47:53Z",
+                "open_issues": 2394,
                 "owner": "bluesky-social",
                 "repo": "social-app",
-                "stars": 18245
+                "stars": 18249,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1395,12 +2267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+                "homepage": "https://new.expensify.com",
                 "id": 285902689,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:29:37Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:04:40Z",
+                "open_issues": 2159,
                 "owner": "Expensify",
                 "repo": "App",
-                "stars": 5014
+                "stars": 5014,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1411,12 +2288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kraken Wallet is a powerful self-custody wallet built for the decentralized web",
+                "homepage": "https://kraken.com/wallet",
                 "id": 786930541,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-28T15:17:06Z",
+                "open_issues": 7,
                 "owner": "krakenfx",
                 "repo": "wallet",
-                "stars": 261
+                "stars": 261,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1427,12 +2309,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦄 Open source interfaces for the Uniswap protocol",
+                "homepage": "https://app.uniswap.org",
                 "id": 108706901,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T17:45:48Z",
+                "open_issues": 823,
                 "owner": "Uniswap",
                 "repo": "interface",
-                "stars": 5532
+                "stars": 5532,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "uniswap"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1450,12 +2341,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500758
+                "stars": 500897,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1466,12 +2368,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome things regarding React ecosystem",
+                "homepage": null,
                 "id": 22670857,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-20T07:58:12Z",
+                "open_issues": 83,
                 "owner": "enaqx",
                 "repo": "awesome-react",
-                "stars": 74419
+                "stars": 74426,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "javascript",
+                  "react",
+                  "react-apps",
+                  "react-native",
+                  "react-tutorial",
+                  "samples",
+                  "tutorial",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1482,12 +2400,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome React Native components, news, tools, and learning material!",
+                "homepage": "http://www.awesome-react-native.com",
                 "id": 32948863,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-26T14:11:18Z",
+                "open_issues": 9,
                 "owner": "jondot",
                 "repo": "awesome-react-native",
-                "stars": 35693
+                "stars": 35693,
+                "topics": [
+                  "awesome-list",
+                  "mobile",
+                  "react",
+                  "react-native"
+                ]
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             },
@@ -1498,12 +2426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated List of Open Source React Native Apps.  Curation curtesy of",
+                "homepage": "https://infinite.red/technologies/react-native",
                 "id": 72874471,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-12T01:17:13Z",
+                "open_issues": 5,
                 "owner": "ReactNativeNews",
                 "repo": "React-Native-Apps",
-                "stars": 10393
+                "stars": 10393,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:34:06.688Z"
             }
@@ -1517,15 +2450,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:34:06.688Z",
+    "last_updated": "2026-08-29T04:57:34.017Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated Expo + React Native DX resources with automated quality checks and weekly health validation.",
+      "homepage": "https://www.codeyup.dev/",
       "id": 1172487358,
       "language": "JavaScript",
+      "license": "CC0-1.0",
       "last_commit": "2026-03-23T08:18:49Z",
+      "open_issues": 3,
       "owner": "eyupk3",
       "repo": "awesome-expo-react-native-dx",
-      "stars": 113
+      "stars": 113,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "expo",
+        "lists",
+        "mobile",
+        "react",
+        "react-native",
+        "resources",
+        "tutorial"
+      ]
     },
     "original_repository_sha": "4be8c3ce1a226f2be82f560be20df91d33d3ea75",
     "enhanced_repository": "enhansome/enhansome-expo-react-native-dx",
